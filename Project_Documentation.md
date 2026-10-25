@@ -53,4 +53,4 @@ The system provides a readable summary of student performance and demonstrates c
 Complete this section after testing the project. Describe actual errors you encountered, how you resolved them, and what you learned about Pandas, NumPy, functions and data analysis.
 
 ## 10. GitHub Repository
-Paste the final repository URL here.
+[https://github.com/Shubhamkahar196/Student-Performance-Analytics-System-.git](https://github.com/Shubhamkahar196/Student-Performance-Analytics-System-.git)
