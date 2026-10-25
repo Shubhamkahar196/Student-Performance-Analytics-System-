@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Mathematics,Data_Science,English,Attendance,Total_Marks,Average_Marks,Grade,Result
+STU001,Aarav Sharma,Computer Science,88,92,85,90,95,355,88.75,A,Pass
+STU002,Priya Verma,Information Technology,76,81,79,84,88,320,80.0,A,Pass
+STU003,Rahul Singh,Computer Science,65,72,68,70,82,275,68.75,C,Pass
+STU004,Ananya Gupta,Electronics,94,96,91,93,98,374,93.5,A+,Pass
+STU005,Vikram Yadav,Mechanical,55,61,58,63,74,237,59.25,D,Pass
+STU006,Sneha Mishra,Information Technology,82,87,90,85,92,344,86.0,A,Pass
+STU007,Aditya Patel,Computer Science,43,49,52,47,68,191,47.75,F,Pass
+STU008,Ishita Roy,Electronics,91,89,94,92,97,366,91.5,A+,Pass
+STU009,Karan Kumar,Mechanical,72,68,75,71,80,286,71.5,B,Pass
+STU010,Meera Joshi,Information Technology,86,84,88,90,94,348,87.0,A,Pass
+STU011,Rohan Das,Computer Science,38,45,41,48,59,172,43.0,F,Fail
+STU012,Kavya Nair,Electronics,79,83,80,77,89,319,79.75,B,Pass
+STU013,Arjun Sinha,Mechanical,61,57,64,60,72,242,60.5,C,Pass
+STU014,Diya Kapoor,Computer Science,97,95,98,96,99,386,96.5,A+,Pass
+STU015,Manav Jain,Information Technology,68,74,71,69,85,282,70.5,B,Pass
+STU016,Pooja Thakur,Electronics,49,54,46,52,66,201,50.25,D,Pass
+STU017,Sahil Khan,Mechanical,84,78,82,80,91,324,81.0,A,Pass
+STU018,Riya Chawla,Information Technology,58,63,60,65,78,246,61.5,C,Pass
+STU019,Dev Malhotra,Computer Science,90,88,92,87,96,357,89.25,A,Pass
+STU020,Nisha Reddy,Electronics,73,76,70,75,86,294,73.5,B,Pass
