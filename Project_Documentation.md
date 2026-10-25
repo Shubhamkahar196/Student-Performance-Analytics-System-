@@ -36,6 +36,16 @@ The dataset contains 20 sample student records. Fields include Student ID, Name,
 ## 7. Output Screenshots
 Add screenshots of the terminal output showing the student report, class summary, subject-wise analysis and top performers.
 
+
+<img width="1587" height="461" alt="1" src="https://github.com/user-attachments/assets/52c09f76-7516-4a02-9cbe-5209c1b41b31" />
+<img width="981" height="740" alt="2" src="https://github.com/user-attachments/assets/96323918-9b87-45ea-a04c-b33f53665216" />
+<img width="777" height="507" alt="3" src="https://github.com/user-attachments/assets/a389c120-b26e-486e-9b92-860056bbb034" />
+<img width="972" height="662" alt="4" src="https://github.com/user-attachments/assets/e93aad2e-539a-4f49-b6ae-507f6c78103f" />
+
+
+
+
+
 ## 8. Final Outcome
 The system provides a readable summary of student performance and demonstrates core Python programming and data analysis concepts.
 
